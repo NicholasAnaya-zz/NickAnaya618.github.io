@@ -1,0 +1,21 @@
+# Site settings
+title: Nick's Code Blog
+header-img: img/home-bg.png
+email: anaya.nicholas@gmail.com
+copyright_name: nickanaya
+description: > # this means to ignore newlines until "baseurl:"
+  puts words
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: _NickAnaya_
+github_username:  NickAnaya618
+learn_profile: NickAnaya618
+email_username: anaya.nicholas@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
