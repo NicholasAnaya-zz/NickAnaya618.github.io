@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pair Programming and Jamming"
-date:   2017-02-22 05:58:45 +0000
+date:   2017-02-22 00:58:45 -0500
 ---
 
 
